@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+streamlit_echarts
+PyPDF2
+python-docx
+PyCryptodome
+PyMuPDF
+openai
+transformers
+sentence_transformers
+torch
+openpyxl

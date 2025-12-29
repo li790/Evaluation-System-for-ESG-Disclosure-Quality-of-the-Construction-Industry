@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+venv39/
+.venv/
+ENV/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Streamlit
+.streamlit/
+streamlit/
+
+# Cache and temporary files
+*.cache
+*.tmp
+.cache/
+*.log
+*.pot
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+综合评价结果/*
+!综合评价结果/.gitkeep
+历史分析记录/*
+!历史分析记录/.gitkeep
+汇总/*
+!汇总/.gitkeep
+汇总1/*
+!汇总1/.gitkeep
